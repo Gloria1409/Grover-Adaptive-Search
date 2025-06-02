@@ -33,9 +33,8 @@ Where:
 - Integrated with full Grover search loop
 - Includes complexity analysis (gate count, depth, ancillas)
 
----
 
-## 🧪 Test Case
+## Test Case
 
 The oracle was tested on the example:
 
